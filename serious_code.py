@@ -24,4 +24,4 @@ pyautogui.press('enter')
 time.sleep(3)
 
 
-pyautogui.click(x=541, y=703)
+pyautogui.click(x=334, y=383)
